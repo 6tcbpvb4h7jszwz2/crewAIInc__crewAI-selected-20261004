@@ -118,7 +118,7 @@ xml = [
     "unstructured[local-inference, all-docs]>=0.17.2"
 ]
 oxylabs = [
-    "oxylabs==2.0.0"
+    "oxylabs==3.0.0"
 ]
 mongodb = [
     "pymongo>=4.13"
